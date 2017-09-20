@@ -1,0 +1,27 @@
+body {text-align: center 
+}
+#menu-outer {
+	height: 84px;
+	background: url(images/bar-bg.jpg) repeat-x;
+}
+
+.table {
+	display: table;   
+	margin: 0 auto;
+}
+
+ul# list1 {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul# list1 li {
+		display: inline;
+	}
+body {
+    background-image: url("anime.background.jpg");
+}
+p{
+    margin-right: 200px;
+    margin-left: 200px;
+}
